@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ITS_Partner_Test</string>
+    <string name="take_straight">Take your phone straight</string>
+    <string name="start">Start</string>
+    <string name="finish">Finish</string>
+    <string name="train_description">Keep phone straight and turn left and right</string>
+    <string name="train">Train</string>
+    <string name="statistic">Statistic</string>
+    <string name="congratulate">Congratulate! You finished your train</string>
+    <string name="message_text">Do you want to check your results?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No, I want to train more</string>
+    <string name="back">Back</string>
+</resources>
